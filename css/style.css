@@ -1,0 +1,31 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.card-box{
+    padding-top: 20px;
+}
+
+.card-image {
+    padding: 20px;
+}
+
+.card-image img{
+    max-height: 177px;
+    min-width: 100px ;
+}
+
+.title-name {
+    font-weight: bold !important;
+}
+
+.content-center {
+    align-content: center !important;
+    justify-content: center !important;
+    text-align: center !important;
+}
+
+.squad-name{
+    font-weight: bold;
+}

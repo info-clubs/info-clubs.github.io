@@ -1,0 +1,24 @@
+{
+  "name": "Info Club PWA",
+  "short_name": "app PWA",
+  "description": "Aplikasi PWA Info Club",
+  "start_url": "/index.html",
+  "gcm_sender_id": "321265037796",
+  "display": "standalone",
+  "background_color": "#00897B",
+  "theme_color": "#00897B",
+  "icons": [
+    {
+      "src": "img/soccerball512m.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "img/soccerball192m.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
